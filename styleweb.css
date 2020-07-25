@@ -60,7 +60,7 @@ html, body{
     background-color: #5d001e;
     border-radius: 8px;
   }
-
+/*Adding profile pic*/
 .dp{
     display: block;
     margin: 0 auto;
@@ -89,7 +89,8 @@ html, body{
     color: #53001d;
     padding-left: 30%;
   }
-    
+  /*End section1*/
+/*--------------Section2------------*/
   .section2{
     background-color: #53001d;
     background-position: cover;
@@ -112,7 +113,7 @@ html, body{
   text-decoration: none;
   color: lime;
 }
-
+/*----------------section3----------------*/
 .section3{
   background-color: #e3e2df;
     background-position: cover;
@@ -144,7 +145,7 @@ html, body{
   padding-left: 20px;
   color: #53001d;
 }
-
+/*------------section4----------*/
 .section4{
   background-color: #53001d;
     background-position: cover;
@@ -176,7 +177,7 @@ html, body{
   padding-left: 20px;
   color: #e3e2df;
 }
-
+/*---------------section5----*/
 .section5{
   background-color: #e3e2df;
     background-position: cover;
@@ -207,6 +208,7 @@ html, body{
   padding-left: 20px;
   color: #53001d;
 }
+/*----section 6-------------*/
 .section6{
   background-color: #fff;
     background-position: cover;
